@@ -14,4 +14,4 @@ De acuerdo a ello, se creo una página en HTML con Css, se usó medias queries p
 <img src="https://i.ibb.co/64YGkFz/Captura-de-pantalla-2023-07-12-021153.png" width="300px"/>
 </p>
 
-Imagen de [Pixabay] (https://pixabay.com/es/vectors/kawaii-rostro-triste-linda-6302007/)
+Imagen de [Pixabay](https://pixabay.com/es/vectors/kawaii-rostro-triste-linda-6302007/)

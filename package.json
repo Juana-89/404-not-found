@@ -45,11 +45,12 @@
     "strip-outer": "^1.0.1",
     "trim-repeated": "^1.0.0",
     "universalify": "^0.1.2",
+    "vercel": "^31.0.2",
     "wrappy": "^1.0.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gh-pages -d src" 
+    "deploy": "gh-pages -d src"
   },
   "repository": {
     "type": "git",
