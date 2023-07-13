@@ -64,7 +64,7 @@ body {
   }
 
   .aside {
-    width: 70%;
+    width: 50%;
   }
 
   .picture {
@@ -81,5 +81,9 @@ body {
     font-size: 11px;
     text-align: center;
     margin-left: auto;
+  }
+
+  .footer {
+    font-size: 11px;
   }
 }
